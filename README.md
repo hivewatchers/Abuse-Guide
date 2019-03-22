@@ -17,9 +17,12 @@ The following fall under the Fraud category:
 # Contact Information
 
 Discord: https://discord.gg/JnvkJMV
+
 Website: http://steemcleaners.com
+
 Twitter: https://twitter.com/steemcleaners
 
 # Abuse Reporting
+
 Form: http://steemcleaners.com/reports/new
 
