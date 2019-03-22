@@ -13,3 +13,13 @@ The following fall under the Fraud category:
 - ID theft
 - Phishing and cybersecurity threats
 - Faucet abuse (farming)
+
+# Contact Information
+
+Discord: https://discord.gg/JnvkJMV
+Website: http://steemcleaners.com
+Twitter: https://twitter.com/steemcleaners
+
+# Abuse Reporting
+Form: http://steemcleaners.com/reports/new
+
