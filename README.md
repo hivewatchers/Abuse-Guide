@@ -18,11 +18,11 @@ The following fall under the Fraud category:
 
 Discord: https://discord.gg/JnvkJMV
 
-Website: http://steemcleaners.com
+Website: http://hivewatchers.com
 
-Twitter: https://twitter.com/steemcleaners
+Twitter: https://twitter.com/hivewatchers
 
 # Abuse Reporting
 
-Form: http://steemcleaners.com/reports/new
+Form: http://hivewatchers.com/reports/new
 
