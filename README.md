@@ -12,7 +12,7 @@ The following fall under the Fraud category:
 - ID deception
 - ID theft
 - Phishing and cybersecurity threats
-- Faucet abuse (farming)
+- Deception 
 
 # Contact Information
 
